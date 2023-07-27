@@ -1,0 +1,11 @@
+app.adjust.com
+apresolve.spotify.com
+audio-fac.spotify.com
+beta.spotify.map.fastly.net
+heads-fa.spotify.com
+i.scdn.co
+spclient.wg.spotify.com
+spotify.com
+t.scdn.co
+wg.spotify.com
+www.spotify.com
